@@ -26,3 +26,28 @@ form {
     border-radius: 4px;
     margin-bottom: 15px;
 }
+
+label {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button {
+    background-color: hsl(240, 66%, 41%);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+button:hover {
+    background-color: hsl(240, 66%, 31%);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}
