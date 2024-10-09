@@ -1,3 +1,15 @@
-# WeatherConverterApp
-This front-end Application converts weather from Celsius to Fahrenheit and vice versa, It accept input from the user and convert the input to either Celsius or Fahrenheit according to a users choosing. The technology I will be using to develop this application is HTML, CSS and Vanilla JavaScript.
-Finally concluded this app a little under 2 day. 
+# Weather Conversion Application
+
+## Overview
+
+This front-end application converts temperatures between Celsius and Fahrenheit. It accepts input from the user and performs the conversion based on the user's choice.
+
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **Vanilla JavaScript**
+
+## Development Timeline
+
+The application was developed in a little under 2 days.
